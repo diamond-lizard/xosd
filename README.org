@@ -1,3 +1,10 @@
+This is a mirror of
+
+  https://sourceforge.net/projects/libxosd/files/libxosd/xosd-2.2.14/xosd-2.2.14.tar.gz/download
+
+What follows is the original content of the project's README:
+
+
 
 Please send any commentry to: xosd@ignavus.net
 
